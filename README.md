@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Immutabled">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%236a0dad&size=35&center=true&vCenter=true&width=600&height=100&lines=Immutabled..&hearts;++;Self-taught+Back-End+Developer,+Computer+Science+Student,+CEO+Mides+Projects,+Active+Learner/Researcher,+Love+to+learn+new+stuffs..%3C3">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%236a0dad&size=40&center=true&vCenter=true&width=800&height=100&lines=Immutabled..&hearts;++;Self-taught+Back-End+Developer;Computer+Science+Student;CEO+Mides+Projects;Active+Learner/Researcher;Love+to+learn+new+stuffs..%3C3">
   </a>
 </p>
 
