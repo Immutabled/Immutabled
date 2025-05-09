@@ -2,51 +2,30 @@
 
 <p align="center">
   <a href="https://github.com/Immutabled">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%236a0dad&size=40&center=true&vCenter=true&width=800&height=100&lines=Immutabled..&hearts;++;Self-taught+Back-End+Developer;Computer+Science+Student;CEO+Mides+Projects;Active+Learner/Researcher;Love+to+learn+new+stuffs..%3C3">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%236a0dad&size=40&center=true&vCenter=true&width=800&height=100&lines=Immutabled..&hearts;++;Self-taught+Backend+Developer;Computer+Science+Student;CEO+@+Mides+Projects;Curious+Technologist;Always+Learning+%3C3">
   </a>
 </p>
 
-
-<a href="https://github.com/Immutabled">
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Immutabled" alt="Profile Views">
-  </p>
-</a>
-
-### 👨‍💻 Programming Languages
-
-<p>
-    <a href="https://github.com/Immutabled"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
-    <a href="https://github.com/Immutabled"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%23000000.svg?logo=kotlin"></a>
-    <a href="https://github.com/Immutabled"><img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=oracle&logoColor=white"></a>
-    <a href="https://github.com/Immutabled"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/Immutabled"><img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white"></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Immutabled&label=Profile+Views&color=6a0dad&style=flat" alt="Profile Views"> 
 </p>
 
-### 🗄️ Databases
+## 🚀 About Me
 
-<p>
-    <a href="https://github.com/Immutabled"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="https://github.com/Immutabled"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%23FF6F00.svg?logo=mongoDB&logoColor=white"></a>
-    <a href="https://github.com/Immutabled"><img alt="Redis" src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white"></a>
-    <a href="https://github.com/Immutabled"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white"></a>
-</p>
+I'm a passionate software engineer specializing in backend systems and infrastructure. With strong expertise in Kotlin and Java, I also work extensively with C++, C#, Python, and modern web technologies (JavaScript/TypeScript).
 
-### 💻 Software and Tools
+## 🛠 Tech Stack
 
-<p>
-    <a href="https://github.com/Immutabled"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="https://maven.apache.org/"><img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36.svg?logo=apache-maven&logoColor=white"></a>
-    <a href="https://gradle.org/"><img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A.svg?logo=gradle&logoColor=white"></a>
-    <a href="https://new.siemens.com/global/en/products/automation/industry-software/automation-software/tia-portal.html"> <img alt="TIA Portal" src="https://img.shields.io/badge/TIA%20Portal-%230087C6.svg?logo=siemens&logoColor=white"></a>
-    <a href="https://github.com/Immutabled"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="https://www.jetbrains.com/idea/"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellij-idea"></a>
-    <a href="https://github.com/Immutabled"><img alt="Gson" src="https://img.shields.io/badge/Gson-%23FFCA28.svg?logo=json&logoColor=black"></a>
-    <a href="https://httpd.apache.org/"><img alt="Apache" src="https://img.shields.io/badge/Apache-%23D22128.svg?logo=apache&logoColor=white"></a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,c,cpp,cs,python,js,ts,docker,kubernetes,linux,mysql,mongo,redis,nginx,git,github,idea,vscode,ps&perline=10)](https://skillicons.dev)
+
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=Immutabled&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Immutabled&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=00000000&title_color=6a0dad&icon_color=6a0dad&text_color=9f9f9f" alt="GitHub Stats"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Immutabled&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=6a0dad&text_color=9f9f9f&hide=html,css,scss" alt="Top Languages"/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Immutabled&theme=react-dark&bg_color=00000000&hide_border=true&color=6a0dad&line=9e4c98&point=6a0dad" alt="Activity Graph"/>
 </p>
 
 ![Footer](./footer.png)
