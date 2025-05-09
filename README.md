@@ -12,7 +12,14 @@
 
 ## 🚀 About Me
 
-I'm a passionate software engineer specializing in backend systems and infrastructure. With strong expertise in Kotlin and Java, I also work extensively with C++, C#, Python, and modern web technologies (JavaScript/TypeScript).
+I'm a passionate software engineer specializing in **backend systems** and **infrastructure**. With strong expertise in **Kotlin** and **Java**, I also work extensively with **C++**, **C#**, **Python**, and modern web technologies (**JavaScript/TypeScript**).
+
+My coding journey began with **Minecraft Java plugin development**, which sparked my love for building robust systems. Currently focused on:
+- **DevOps Engineering**
+- **Data Systems**
+- **Security Practices**
+
+While maintaining my roots in game modding, I'm actively expanding into **AI/ML** and **web development** to build more diverse solutions.
 
 ## 🛠 Tech Stack
 
